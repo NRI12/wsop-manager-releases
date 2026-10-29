@@ -1,0 +1,536 @@
+[
+ {
+  "bundle": "crownrouletteslice",
+  "texts": [
+   "​",
+   "Buy-in: <b>2.5K</b>",
+   "​",
+   "Buy-in: <b>2.5K</b>"
+  ],
+  "buttons": [
+   {
+    "object": "inner#5080798118562034073",
+    "roles": [
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_LiveOps_Tex_Ui_CrownRoulette_Bigger_LobbyButton_ef39b8cd307e50b8"
+   },
+   {
+    "object": "inner#1205079487267548086",
+    "roles": [
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_LiveOps_Tex_Ui_CrownRoulette_Big_LobbyButton_e50fd74abe3787f553c"
+   }
+  ]
+ },
+ {
+  "bundle": "dbxoffer4",
+  "texts": [
+   "​",
+   "​",
+   "{SweepstakesDailyBlitzXtremeCurrencyValue}",
+   "{SweepstakesDailyBlitzXtremeCurrencyValue}"
+  ],
+  "buttons": [
+   {
+    "object": "inner#7461899635160214722",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"GIVE UP\"",
+    "prefab": "P_APE_inapp_textButton"
+   },
+   {
+    "object": "inner#1398965184328160323",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"ONLY ${GetDbxCurrentPrice()} USD\"",
+    "prefab": "P_APE_inapp_greenButton"
+   }
+  ]
+ },
+ {
+  "bundle": "dbx_offer_default",
+  "texts": [
+   "​",
+   "{SweepstakesDailyBlitzXtremeCurrencyValue}",
+   "​",
+   "{SweepstakesDailyBlitzXtremeCurrencyValue}"
+  ],
+  "buttons": [
+   {
+    "object": "inner#-4472904744058986147",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"ONLY ${GetDbxCurrentPrice()} USD\"",
+    "prefab": "P_APE_inapp_greenButton"
+   },
+   {
+    "object": "inner#-8665408963198303752",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"GIVE UP\"",
+    "prefab": "P_APE_inapp_textButton"
+   }
+  ]
+ },
+ {
+  "bundle": "popupaccountmanager_drew",
+  "texts": [
+   "​",
+   "Get in touch with Andrew"
+  ],
+  "buttons": [
+   {
+    "object": "inner#1634926143942838331",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"FACEBOOK\"",
+    "prefab": "P_APE_inapp_blueButton"
+   },
+   {
+    "object": "inner#-1222627666395781993",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"EMAIL\"",
+    "prefab": "P_APE_inapp_greenButton"
+   },
+   {
+    "object": "inner#-4974553529783089342",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_MOB_CloseBtn_caa255_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popupaccountmanager_kate2018",
+  "texts": [
+   "​",
+   "Get in touch with Kate"
+  ],
+  "buttons": [
+   {
+    "object": "inner#6002198761934423998",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"FACEBOOK\"",
+    "prefab": "P_APE_inapp_blueButton"
+   },
+   {
+    "object": "inner#-8154226114159328339",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"EMAIL\"",
+    "prefab": "P_APE_inapp_greenButton"
+   },
+   {
+    "object": "inner#6341871711949461247",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_MOB_CloseBtn_caa255_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popupaccountmanager_sophie",
+  "texts": [
+   "​",
+   "Get in touch with Sophie"
+  ],
+  "buttons": [
+   {
+    "object": "inner#-286727225558338514",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"EMAIL\"",
+    "prefab": "P_APE_inapp_greenButton"
+   },
+   {
+    "object": "inner#766012251460250050",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"FACEBOOK\"",
+    "prefab": "P_APE_inapp_blueButton"
+   },
+   {
+    "object": "inner#-6879793165353677363",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_MOB_CloseBtn_caa255_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popupcrownkott_rules_inapp_mob",
+  "texts": [],
+  "buttons": [
+   {
+    "object": "inner#3558396013528374605",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": "\"LET'S RULE\"",
+    "prefab": "P_APE_inapp_CTAGreenButton"
+   },
+   {
+    "object": "inner#-1324597853899319678",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_MOB_CloseBtn_Amber_e2ae21_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popupfinaltable_pp_a",
+  "texts": [
+   "​",
+   "Final Table Jackpot shares will be awarded by August 7th."
+  ],
+  "buttons": [
+   {
+    "object": "inner#-471064514584700876",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_Tex_Ui_CloseBTN2x2_5b9de6adf9a61fa8ff806c8d602743c9_button"
+   },
+   {
+    "object": "inner#7306498021378519598",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_Tex_Ui_CloseBTNx2_48d8bc4f1a864e01e7a945a5379a2c60_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popupfinaltable_pp_b",
+  "texts": [
+   "Final Table Jackpot shares will be awarded by August 7th.",
+   "​"
+  ],
+  "buttons": [
+   {
+    "object": "inner#-5021941792984801491",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_Tex_Ui_CloseBTNx2_48d8bc4f1a864e01e7a945a5379a2c60_button"
+   },
+   {
+    "object": "inner#-2355779143927620707",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_Tex_Ui_CloseBTN2x2_5b9de6adf9a61fa8ff806c8d602743c9_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popupfinaltable_pp_c",
+  "texts": [
+   "​",
+   "Final Table Jackpot shares will be awarded by August 7th."
+  ],
+  "buttons": [
+   {
+    "object": "inner#5821799923506902278",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_Tex_Ui_CloseBTN2x2_5b9de6adf9a61fa8ff806c8d602743c9_button"
+   },
+   {
+    "object": "inner#5912724139455731953",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_Tex_Ui_CloseBTNx2_48d8bc4f1a864e01e7a945a5379a2c60_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popupfinaltable_pp_d",
+  "texts": [
+   "​",
+   "Final Table Jackpot shares will be awarded by August 7th."
+  ],
+  "buttons": [
+   {
+    "object": "inner#3678349076721569857",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_Tex_Ui_CloseBTNx2_48d8bc4f1a864e01e7a945a5379a2c60_button"
+   },
+   {
+    "object": "inner#-1665693542247210199",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_Tex_Ui_CloseBTN2x2_5b9de6adf9a61fa8ff806c8d602743c9_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popupfree_to_play_popup_a",
+  "texts": [
+   "GET 50,000 CHIPS TO PLAY\nAT THE LOWEST TABLE",
+   "GET CHIPS AND MUCH MORE\nFROM THE STORE!",
+   "​",
+   "​"
+  ],
+  "buttons": [
+   {
+    "object": "inner#-1810039435004862110",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": "\"CLAIM FROM INBOX\"",
+    "prefab": "P_APE_inapp_CTABlueButton"
+   },
+   {
+    "object": "inner#5532463596359478994",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": "\"I WANT IT!\"",
+    "prefab": "P_APE_inapp_CTAGreenButton"
+   }
+  ]
+ },
+ {
+  "bundle": "popuprapidroulette_howto_vv",
+  "texts": [],
+  "buttons": [
+   {
+    "object": "inner#-5890534864753468745",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_MOB_CloseBtn_fc0983a77f6c872d5de456722b1b00a7_button"
+   },
+   {
+    "object": "btn_bracelet#5792589452937748588",
+    "roles": [
+     "claim_or_navigate"
+    ],
+    "caption": null,
+    "prefab": null
+   },
+   {
+    "object": "inner#-8056174253098544449",
+    "roles": [
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_sliceBraceletButton"
+   }
+  ]
+ },
+ {
+  "bundle": "popuprateusunity_androidonly",
+  "texts": [],
+  "buttons": [
+   {
+    "object": "inner#-3971056966222477510",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"RATE US!\"",
+    "prefab": "P_APE_inapp_CTAGreenButton"
+   },
+   {
+    "object": "inner#-4107260330962545045",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_MOB_CloseBtn_Black_2c3044_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popuprateusunity_iosonly",
+  "texts": [],
+  "buttons": [
+   {
+    "object": "inner#5894127228800257246",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"RATE US!\"",
+    "prefab": "P_APE_inapp_greenButton"
+   },
+   {
+    "object": "inner#-2725854747476411063",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_MOB_CloseBtn_Black_2c3044_button"
+   }
+  ]
+ },
+ {
+  "bundle": "popupsuperspin_wheelblast_hourlybonuspopup",
+  "texts": [
+   "ENJOY AN EXTRA MULTIPLIER\nON YOUR SUPER SPIN WHEEL!",
+   "​",
+   "​",
+   "​"
+  ],
+  "buttons": [
+   {
+    "object": "inner#8917807076451632196",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": "\"SWEET\"",
+    "prefab": "P_APE_inapp_greenButton"
+   }
+  ]
+ },
+ {
+  "bundle": "popupturkish_likeus",
+  "texts": [],
+  "buttons": [
+   {
+    "object": "inner#-4569257849613048880",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_CloseButton_button"
+   },
+   {
+    "object": "inner#-1015879866413146326",
+    "roles": [
+     "close"
+    ],
+    "caption": "\"BEĞEN\"",
+    "prefab": "P_APE_inapp_blueButton"
+   }
+  ]
+ },
+ {
+  "bundle": "popupwinmachine_infovideo",
+  "texts": [
+   "TITLE",
+   "00:00",
+   "00:00"
+  ],
+  "buttons": [
+   {
+    "object": "btn_Skip#-1840238153328845904",
+    "roles": [
+     "claim_or_navigate"
+    ],
+    "caption": null,
+    "prefab": null
+   },
+   {
+    "object": "inner#5682506553314006834",
+    "roles": [
+     "claim_or_navigate",
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_tex_ui_videocontainer_CloseBTN_1234_31c9bfbbcb3ba9ecfc8db8cbe2a0"
+   }
+  ]
+ },
+ {
+  "bundle": "texasroulettebraceletslice3",
+  "texts": [
+   "​",
+   "Buy-in: <b>2.5K</b>",
+   "​",
+   "Buy-in: <b>2.5K</b>"
+  ],
+  "buttons": [
+   {
+    "object": "inner#3887390809325040341",
+    "roles": [
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_TexasRouletteBracelet_lobby_button_right_Unity_p2_new_ef7953fcef"
+   },
+   {
+    "object": "inner#5268385437793890503",
+    "roles": [
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_TexasRouletteBracelet_lobby_button_Unity_p2_new_1400f56a8a3a5f56"
+   },
+   {
+    "object": "btn_bracelet#3930203044467038369",
+    "roles": [
+     "claim_or_navigate"
+    ],
+    "caption": null,
+    "prefab": null
+   },
+   {
+    "object": "inner#9211124741096766123",
+    "roles": [
+     "close"
+    ],
+    "caption": null,
+    "prefab": "P_APE_sliceBraceletButton"
+   }
+  ]
+ }
+]
