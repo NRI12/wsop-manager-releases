@@ -6,8 +6,8 @@
   "PIL/_imagingft.pyd": "6661a925b55bc9c0465699a64327b3b7602d1b04391caf5ab88efa77e8569838",
   "PIL/_imagingtk.pyd": "d3a5ebaf8a550fe1e3a5baed6eac89e6e21a5ccd3c8f8f22ae577a57248173c7",
   "PIL/_webp.pyd": "2d5846f349212f73e613ab18076851d360d3deb0dd7b41db76357ed06e65f39d",
-  "VERSION": "1f2110568627307becae713f8b808f3d9d912d4b2a24ed6a78605f03f7437d3c",
-  "WSOPManager.exe": "97004e05234aa242ab2c57175bf461c01f39821aeb7e0975b3403d5f0c8d87ad",
+  "VERSION": "ba57e7c7f71876d645bcdd9fb070f2dea8e6db5ed284a7e3d85c6b7d2409fef1",
+  "WSOPManager.exe": "f4f37d84969afa82e3940ba8b71fbc772567f3431136aa83edcd13149a8d336f",
   "_bz2.pyd": "5843872d5e2b08f138a71fe9ba94813afee59c8b48166d4a8eb0f606107a7e80",
   "_ctypes.pyd": "e662d2b35bb48c5f3432bde79c0d20313238af800968ba0faa6ea7e7e5ef4535",
   "_decimal.pyd": "d0df57988a74acd50b2d261e8b5f2c25da7b940ec2aafbee444c277552421e6e",
@@ -1096,5 +1096,5 @@
   "vcruntime140_1.dll": "1758085a61527b427c4380f0c976d29a8bee889f2ac480c356a3f166433bf70e",
   "yaml/_yaml.pyd": "ee7df83fa5dca1467bfd841dc08189b10361f31700cf57a6aacddaf0c05706f4"
  },
- "version": "0.1.6"
+ "version": "0.1.7"
 }
