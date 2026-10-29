@@ -6,8 +6,8 @@
   "PIL/_imagingft.pyd": "6661a925b55bc9c0465699a64327b3b7602d1b04391caf5ab88efa77e8569838",
   "PIL/_imagingtk.pyd": "d3a5ebaf8a550fe1e3a5baed6eac89e6e21a5ccd3c8f8f22ae577a57248173c7",
   "PIL/_webp.pyd": "2d5846f349212f73e613ab18076851d360d3deb0dd7b41db76357ed06e65f39d",
-  "VERSION": "8a3dad16d348c163566a456fcf650d85d7aeeda5e53d01ee1fa8dc15212915a7",
-  "WSOPManager.exe": "548cf5044e02e26993e8817dd05459fbf784f10aa98ecbcd12ff2fa6ec1ca3f7",
+  "VERSION": "800cf1c0392b24de7c0a1c6ea6778ecb433dec71c49a150bce96a98477527b2f",
+  "WSOPManager.exe": "323e3514876753b216a689a89c8123bf1f720d2c18dc586b9ba25263ecd9cbb1",
   "_bz2.pyd": "5843872d5e2b08f138a71fe9ba94813afee59c8b48166d4a8eb0f606107a7e80",
   "_ctypes.pyd": "e662d2b35bb48c5f3432bde79c0d20313238af800968ba0faa6ea7e7e5ef4535",
   "_decimal.pyd": "d0df57988a74acd50b2d261e8b5f2c25da7b940ec2aafbee444c277552421e6e",
@@ -1002,7 +1002,7 @@
   "templates/tutorial_go_play.png": "cc4b032e50fa1b1b5e44f65e8037eb231d9b361b32e615225b613bfc22e383fa",
   "templates/tutorial_next.png": "21adaeeb88aa26dbbe239f169a1a96069fc0926505ddec309f3159dd45833cb4",
   "templates/update_now_dialog.png": "a4262ae38b5eedf375cb48a9468b6cb48f9462b78fac496f42345113956f583a",
-  "templates/upgrade_me.png": "5d46c594e679713570e57ba33968a11cf14ad03faca50833faeda106dd231c3a",
+  "templates/upgrade_me.png": "98dc818ab83e00f26e65ca6d8f19f507e315a752c8707ebd7b312fa82c921c1d",
   "tk/bgerror.tcl": "8822365ee279bebf7a36cfdedba1114762f894781f4635170cc5d85ff5b17923",
   "tk/button.tcl": "1f5dd8d81b26f16e772e92fd2a22accb785004d0ed3447e54f87005d9c6a07a5",
   "tk/choosedir.tcl": "35b208e8570b0d1e0ca1c911d4fe02ee3b0cfe5667cf1bdec006cf9d043122ba",
@@ -1096,5 +1096,5 @@
   "vcruntime140_1.dll": "1758085a61527b427c4380f0c976d29a8bee889f2ac480c356a3f166433bf70e",
   "yaml/_yaml.pyd": "ee7df83fa5dca1467bfd841dc08189b10361f31700cf57a6aacddaf0c05706f4"
  },
- "version": "0.1.4"
+ "version": "0.1.5"
 }
